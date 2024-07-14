@@ -1,0 +1,11 @@
+datetime
+winshell
+ecapture
+pyttsx3
+pyjokes
+wikipedia
+speech_recognition
+webbrowser
+pywin32
+requests
+openai
